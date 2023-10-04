@@ -12,6 +12,7 @@
 <img align="right" height="150" src="https://i.ibb.co/1q6vBy9/67a623ecc9dfa7917f7af1dca6d19682.jpg"  />
 
 ###
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -47,12 +48,9 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/0xffvirus/0xffvirus/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xffvirus&" alt="0xffvirus" /></p>
+<img src="https://profile-counter.glitch.me/0xffvirus/count.svg?"  />
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0xffvirus/count.svg?"  />
-</div>
 
 ###
