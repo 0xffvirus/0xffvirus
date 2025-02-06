@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xffvirus&" alt="0xffvirus" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xffvirus&theme=dark)](https://git.io/streak-stats)
 <img src="https://profile-counter.glitch.me/0xffvirus/count.svg?"  />
 
 
