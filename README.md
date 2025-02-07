@@ -51,7 +51,8 @@
 <br clear="both">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xffvirus&theme=dark)](https://git.io/streak-stats)
-<img src="https://profile-counter.glitch.me/0xffvirus/count.svg?"  />
+<br />
+<p>Profile Visitors: </p><img src="https://profile-counter.glitch.me/0xffvirus/count.svg?"  />
 
 
 
