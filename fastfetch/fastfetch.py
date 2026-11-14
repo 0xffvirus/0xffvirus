@@ -30,7 +30,7 @@ CACHE = HERE / "cache.json"
 PROMPT = "fastfetch"
 TITLE = "bahaa@0xffvirus"
 UPTIME_SINCE = dt.date(2005, 6, 3)  # birthday, so Uptime reads as your age
-LOC_SKIP = {"0xffvirus/islamicadkar"}  # data-heavy repos to leave out of Lines of Code
+LOC_SKIP = set()  # repos to leave out of Lines of Code (none: every project counts)
 
 # (key, value) is a dotted row, None is a blank row, ("-", "Name") starts a section.
 # {uptime} and the GitHub Stats rows are filled in at render time.
@@ -156,14 +156,14 @@ def contributor_lines(name):
 
 
 def fetch_lines(repos, cache):
-    """Sum additions/deletions across non-fork repos, reusing cached counts for repos with no new pushes.
+    """Sum your additions/deletions across every repo, reusing cached counts for repos with no new pushes.
 
     Cache keys are hashed so private repo names never land in this public repo.
     """
     old, new = cache.get("loc", {}), {}
     pending = []
     for repo in repos:
-        if repo["isFork"] or repo["nameWithOwner"] in LOC_SKIP:
+        if repo["nameWithOwner"] in LOC_SKIP:
             continue
         key = hashlib.sha256(repo["nameWithOwner"].encode()).hexdigest()[:16]
         hit = old.get(key)
