@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1056" height="608" viewBox="0 0 1056 608" role="img" aria-labelledby="title">
+<title id="title">bahaa@0xffvirus — fastfetch</title>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 16px; white-space: pre; fill: #24292f; }
+.key { fill: #953800; } .val { fill: #0a3069; } .dim { fill: #8c959f; }
+.title { fill: #953800; font-weight: 700; } .add { fill: #1a7f37; } .sub { fill: #cf222e; }
+.prompt { fill: #1a7f37; font-weight: 700; }
+.cursor { animation: blink 1.1s steps(1) infinite; }
+@keyframes blink { 50% { fill-opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+.art { fill: #0e6e7a; } .glint { fill: #d1243f; font-weight: 700; }
+</style>
+<rect x="0.5" y="0.5" width="1055" height="607" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="24" y="36.8"><tspan class="prompt">❯ </tspan>fastfetch</text>
+<text x="24" y="96.8" class="art">                    .**: -</text>
+<text x="24" y="116.8" class="art">               ,    *x* -~</text>
+<text x="24" y="136.8" class="art">             ~+    -**~ +~      .</text>
+<text x="24" y="156.8" class="art">           ,+*+, =-+oo~ ~~ -    ,:</text>
+<text x="24" y="176.8" class="art">          .  .       ,~:**:-    .+,</text>
+<text x="24" y="196.8" class="art">          +.=,          =**+~  =,ox</text>
+<text x="24" y="216.8" class="art">         +o=. .      :<tspan class="glint">+</tspan>=o+oO#* +xoO=,</text>
+<text x="24" y="236.8" class="art">        ,xx= -       *~+OxO##O=oO#OoO: .,</text>
+<text x="24" y="256.8" class="art">        =Ox+,,,     ~+o@@OO#OOOOOOOO#o.*+</text>
+<text x="24" y="276.8" class="art">        *#Oxo=::---~=x%#OOOOOOOOOO###o===,=-</text>
+<text x="24" y="296.8" class="art">        =O###OxxoxO%%#OOOOOOOOOOOOO=  ..,,,~</text>
+<text x="24" y="316.8" class="art">         +O#####OOOOOOOOOOOOOOOOO+    ~ox~</text>
+<text x="24" y="336.8" class="art">         .=xO###O%@@OOOOOOOOOOOO=   :=x%x,</text>
+<text x="24" y="356.8" class="art">          ,+*oxxxxOOxO#O#O#O#OO+~:-+O@#:</text>
+<text x="24" y="376.8" class="art">            ,+O########OOOOO##x**oO@@+</text>
+<text x="24" y="396.8" class="art">              -+*ooxxO###OOOO#OoOO%#,</text>
+<text x="24" y="416.8" class="art">                =xO##########OxO#%O</text>
+<text x="24" y="436.8" class="art">                  :=+***oOO####O%x</text>
+<text x="24" y="456.8" class="art">   -     ..         .,~+*xx###%#-</text>
+<text x="24" y="476.8" class="art">    =,:. .-=++==+*oOOO#O###x+-</text>
+<text x="24" y="496.8" class="art">     ~==~::=*xOOOOOxxo=:.</text>
+<text x="24" y="516.8" class="art">           :=*oo+-.</text>
+<text x="475.2" y="56.8"><tspan class="title">bahaa@0xffvirus</tspan><tspan class="dim"> ------------------------------------------</tspan></text>
+<text x="475.2" y="76.8"><tspan class="dim">. </tspan><tspan class="key">OS</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............................................ </tspan><tspan class="val">Omarchy</tspan></text>
+<text x="475.2" y="96.8"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">21 years, 5 months, 11 days</tspan></text>
+<text x="475.2" y="116.8"><tspan class="dim">. </tspan><tspan class="key">Host</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............................................ </tspan><tspan class="val">KFUPM</tspan></text>
+<text x="475.2" y="136.8"><tspan class="dim">. </tspan><tspan class="key">Kernel</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................... </tspan><tspan class="val">Software Engineering Student</tspan></text>
+<text x="475.2" y="156.8"><tspan class="dim">. </tspan><tspan class="key">IDE</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................................... </tspan><tspan class="val">VSCode, Neovim</tspan></text>
+<text x="475.2" y="176.8"><tspan class="dim">. </tspan><tspan class="key">Locale</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........................... </tspan><tspan class="val">Dammam, Saudi Arabia</tspan></text>
+<text x="475.2" y="216.8"><tspan class="dim">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="dim">:</tspan><tspan class="dim"> .... </tspan><tspan class="val">TypeScript, Python, Go, Dart</tspan></text>
+<text x="475.2" y="236.8"><tspan class="dim">. </tspan><tspan class="key">Languages.Computer</tspan><tspan class="dim">:</tspan><tspan class="dim"> .... </tspan><tspan class="val">HTML, CSS, SQL, LaTeX, Markdown</tspan></text>
+<text x="475.2" y="256.8"><tspan class="dim">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........................ </tspan><tspan class="val">Arabic, English</tspan></text>
+<text x="475.2" y="296.8"><tspan class="dim">. </tspan><tspan class="key">Focus.AI</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................. </tspan><tspan class="val">AI Agents, MCP, LLM Tooling</tspan></text>
+<text x="475.2" y="316.8"><tspan class="dim">. </tspan><tspan class="key">Focus.Backend</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........ </tspan><tspan class="val">Go, Node.js, FastAPI, PostgreSQL</tspan></text>
+<text x="475.2" y="336.8"><tspan class="dim">. </tspan><tspan class="key">Focus.Games</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">Godot, Unity, Aseprite</tspan></text>
+<text x="475.2" y="356.8"><tspan class="dim">. </tspan><tspan class="key">Focus.Mobile</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">Flutter, iOS, Android</tspan></text>
+<text x="475.2" y="376.8"><tspan class="dim">. </tspan><tspan class="key">Focus.Cloud</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............. </tspan><tspan class="val">AWS, Supabase, Vercel, Docker</tspan></text>
+<text x="475.2" y="416.8"><tspan class="dim">- </tspan><tspan class="title">Contact</tspan><tspan class="dim"> ------------------------------------------------</tspan></text>
+<text x="475.2" y="436.8"><tspan class="dim">. </tspan><tspan class="key">Linktree</tspan><tspan class="dim">:</tspan><tspan class="dim"> ...................................... </tspan><tspan class="val">0xbahaa</tspan></text>
+<text x="475.2" y="456.8"><tspan class="dim">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="dim">:</tspan><tspan class="dim"> ...................................... </tspan><tspan class="val">0xbahaa</tspan></text>
+<text x="475.2" y="496.8"><tspan class="dim">- </tspan><tspan class="title">GitHub Stats</tspan><tspan class="dim"> -------------------------------------------</tspan></text>
+<text x="475.2" y="516.8"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan><tspan class="dim">:</tspan><tspan class="dim"> .... </tspan><tspan class="val">82</tspan><tspan class="dim"> {</tspan><tspan class="key">Contributed</tspan><tspan class="dim">: </tspan><tspan class="val">34</tspan><tspan class="dim">}</tspan><tspan class="dim"> | </tspan><tspan class="key">Stars</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">33</tspan></text>
+<text x="475.2" y="536.8"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................... </tspan><tspan class="val">325</tspan><tspan class="dim"> | </tspan><tspan class="key">Followers</tspan><tspan class="dim">:</tspan><tspan class="dim"> ....... </tspan><tspan class="val">49</tspan></text>
+<text x="475.2" y="556.8"><tspan class="dim">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="dim">:</tspan><tspan class="dim"> .... </tspan><tspan class="val">2,065,969</tspan><tspan class="dim"> ( </tspan><tspan class="add">2,191,859++</tspan><tspan class="dim">, </tspan><tspan class="sub">125,890--</tspan><tspan class="dim"> )</tspan></text>
+<text x="24" y="576.8"><tspan class="prompt">❯ </tspan><tspan class="cursor">█</tspan></text>
+</svg>

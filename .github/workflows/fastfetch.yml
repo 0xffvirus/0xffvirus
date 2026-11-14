@@ -1,0 +1,39 @@
+name: fastfetch
+
+on:
+  schedule:
+    - cron: "5 0 * * *" # daily at 00:05 UTC, so Uptime ticks over every day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - fastfetch/fastfetch.py
+      - fastfetch/ascii.txt
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fastfetch
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Render card
+        run: python3 fastfetch/fastfetch.py
+        env:
+          # Add a personal access token as the ACCESS_TOKEN secret (scopes: repo, read:user) to
+          # include private repos and commits. The built-in token only sees public activity.
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git add fastfetch
+          if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(fastfetch): refresh stats"
+          git push

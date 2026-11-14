@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="48" viewBox="0 0 480 48" role="img" aria-label="LINKTREE">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 16px; white-space: pre; fill: #24292f; }
+.key { fill: #953800; } .val { fill: #0a3069; } .dim { fill: #8c959f; }
+.title { fill: #953800; font-weight: 700; } .add { fill: #1a7f37; } .sub { fill: #cf222e; }
+.prompt { fill: #1a7f37; font-weight: 700; }
+.art { fill: #0e6e7a; } .glint { fill: #d1243f; font-weight: 700; }
+</style>
+<rect x="0.5" y="0.5" width="479" height="47" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="12" y="45" width="456" height="2" rx="1" fill="#953800"/>
+<text x="240" y="29.6" text-anchor="middle"><tspan class="dim">[ </tspan><tspan class="key">LINKTREE</tspan><tspan class="dim"> ]</tspan></text>
+</svg>
