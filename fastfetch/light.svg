@@ -36,7 +36,7 @@ text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'L
 <text x="24" y="516.8" class="art">           :=*oo+-.</text>
 <text x="475.2" y="56.8"><tspan class="title">bahaa@0xffvirus</tspan><tspan class="dim"> ------------------------------------------</tspan></text>
 <text x="475.2" y="76.8"><tspan class="dim">. </tspan><tspan class="key">OS</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............................................ </tspan><tspan class="val">Omarchy</tspan></text>
-<text x="475.2" y="96.8"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">21 years, 5 months, 12 days</tspan></text>
+<text x="475.2" y="96.8"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">21 years, 5 months, 13 days</tspan></text>
 <text x="475.2" y="116.8"><tspan class="dim">. </tspan><tspan class="key">Host</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............................................ </tspan><tspan class="val">KFUPM</tspan></text>
 <text x="475.2" y="136.8"><tspan class="dim">. </tspan><tspan class="key">Kernel</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................... </tspan><tspan class="val">Software Engineering Student</tspan></text>
 <text x="475.2" y="156.8"><tspan class="dim">. </tspan><tspan class="key">IDE</tspan><tspan class="dim">:</tspan><tspan class="dim"> .................................... </tspan><tspan class="val">VSCode, Neovim</tspan></text>
